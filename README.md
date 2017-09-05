@@ -49,3 +49,7 @@
 * Implementada desde cero.
 * Los colores del gradiente interno se eligen al azar, algunos colores intermedios aumenta de mayor forma las ilusiones, unos son mejores para la ilusion de curvatura, otros para la ilusion de movimiento por eso se puede camiar el color interno de forma aleaotria con la tecla "c".
 * Se presenta tres Iiusiones. Una corresponde a la diferencia de gradientes que crea un efecto de curvatura en los bordes del color interno. La segunda ilusión es de movimiento aunque los gradientes internos estan estaticos titilando, parecieran se mueven, el superior hacia a la derecha como los colores que lo envuelven y el inferior pareciera se mueve hacia la izquierda, también debido al movimiento a la derecha del gradiente externo. La tercera es el desface entre los colores, aunque titilan con los mismos colores algunos colores internos parecen estar en diferente posición, al presionar la tecla de activación "a" se ve que las dos lineas internas son identicas, sin curvaturas y titilando sin movimiento en el eje x.
+
+### Punto adicional afterefect buda
+
+* Aún en reparación.
